@@ -46,7 +46,6 @@ section > div {
 article{
     display: grid;
     place-items: center;
-    gap: .5rem;
     max-width: 300px;
     margin: 0 auto;
 }
